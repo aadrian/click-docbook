@@ -32,6 +32,6 @@
 
   <rewriteURI
     uriStartString="http://docbook.sourceforge.net/release/xsl/current/"
-    rewritePrefix="@target.dir@/docbook-xsl-snapshot/"/>
+    rewritePrefix="@target.dir@/docbook-xsl-1.75.0/"/>
 
 </catalog>
