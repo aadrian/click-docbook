@@ -29,7 +29,7 @@
             </fileset>
         </copy>
         <zip basedir="tmp"
-           destfile="build/click-docbook-0.1.zip"
+           destfile="build/click-docbook-0.2.zip"
            includes="**"/>
 
         <delete dir="tmp"/>
